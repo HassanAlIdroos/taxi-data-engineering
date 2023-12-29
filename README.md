@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on taxi data using various tools and technologies, including AWS S3 for storage, Python, Compute Instance, Mage Data Pipeline Tool and BigQuery.
+The goal of this project is to perform data engineering on taxi data by creating a data model and performing data ETL using various tools and technologies, including AWS S3 for storage, Python, Compute Instance, Mage Data Pipeline Tool and BigQuery.
 
 ## Architecture 
 <img src="taxi_data_architecture.jpeg">
