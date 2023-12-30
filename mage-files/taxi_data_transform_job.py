@@ -14,7 +14,7 @@ def transform(df, *args, **kwargs):
     There should be one parameter for each output variable from each parent block.
 
     Args:
-        data: The output from the upstream parent block
+        df: The output from the upstream parent block
         args: The output from any additional upstream blocks (if applicable)
 
     Returns:
